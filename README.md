@@ -1,0 +1,1 @@
+Repository for all work completed within "Special Topics in Artificial Intelligence and Deep Learning" module within Year 4 Chemistry with Scientific Computing degree.
